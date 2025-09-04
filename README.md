@@ -26,4 +26,4 @@
 
 # Conclusion
 
-T-  he analysis provides meaningful insights into how users interact with different topics on Twitter. While negative sentiments dominate, there remains a diverse spread of opinions that reflect public attitudes and engagement patterns.
+-  he analysis provides meaningful insights into how users interact with different topics on Twitter. While negative sentiments dominate, there remains a diverse spread of opinions that reflect public attitudes and engagement patterns.
